@@ -6,6 +6,8 @@
 
 **PROMOTEUR DU PROJET** : NKEMDEM JEREMIE
 
+**Nationalité** : Camerounais 
+
 **DESCRIPTION DU PROJET** :	«Afrik’Epress» est une application mobile multiplateforme permettant de distribuer  la presse/magazine au format numérique en Afrique. Les producteurs de contenus (Organes de presse) possèdent une interface web leur permettant de charger le fichier numérique de leurs prochaines parutions  une fois la rédaction et le montage bouclés. Une fois installée sur le terminale du grand public, l’application intègre une liseuse électronique offrant un confort de lecture optimale. L’application intègre également un module radio pour écouter les radios nationales et internationales.  
 
 **COÛT TOTAL DU PROJET** :	
